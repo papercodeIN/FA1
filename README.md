@@ -14,8 +14,9 @@
 | Wire                            | —   |
 | 3D Printed M3 Spacer            | 4   |
 | M3 25mm Screw - Metal           | 8   |
-| M3 Nut - Metal                  | 12  |
+| M3 Nut - Metal                  | 14  |
 | 3D Printed M3 50mm Screw        | 4   |
 | 18650 Battery                   | 3   |
 | 18650 3 Cell Battery Holder     | 1   |
 | 2-State Toggle Switch | 1 |
+| M3 15mm Screw | 2 |
