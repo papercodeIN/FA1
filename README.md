@@ -18,3 +18,4 @@
 | 3D Printed M3 50mm Screw        | 4   |
 | 18650 Battery                   | 3   |
 | 18650 3 Cell Battery Holder     | 1   |
+| 2-State Toggle Switch | 1 |
